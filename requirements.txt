@@ -1,0 +1,16 @@
+langchain_openai 
+langchain_core
+python-dotenv
+streamlit
+langchain_community
+langserve
+fastapi
+uvicorn
+sse_starlette 
+jupyterlab
+pymupdf
+langchain
+langchain-community
+llama-index 
+llama-index-vector-stores-qdrant 
+qdrant-client
